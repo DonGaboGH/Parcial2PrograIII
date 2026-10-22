@@ -1,0 +1,31 @@
+Sucursal,Producto,Categoria,Cantidad,Precio_Unitario_USD,Stock_Minimo
+San Salvador,Arroz 5 lb,Alimentos,120,4.25,30
+San Salvador,Frijoles rojos 2 lb,Alimentos,85,2.10,25
+San Salvador,Aceite vegetal 1 L,Alimentos,64,3.75,20
+San Salvador,Detergente 1 kg,Limpieza,42,5.50,15
+San Salvador,Leche en polvo 400 g,Lacteos,18,6.25,20
+San Salvador,Cuaderno universitario,Papeleria,90,1.80,25
+Santa Ana,Arroz 5 lb,Alimentos,78,4.25,30
+Santa Ana,Frijoles rojos 2 lb,Alimentos,56,2.10,25
+Santa Ana,Aceite vegetal 1 L,Alimentos,39,3.75,20
+Santa Ana,Detergente 1 kg,Limpieza,27,5.50,15
+Santa Ana,Leche en polvo 400 g,Lacteos,12,6.25,20
+Santa Ana,Cuaderno universitario,Papeleria,61,1.80,25
+San Miguel,Arroz 5 lb,Alimentos,95,4.25,30
+San Miguel,Frijoles rojos 2 lb,Alimentos,70,2.10,25
+San Miguel,Aceite vegetal 1 L,Alimentos,48,3.75,20
+San Miguel,Detergente 1 kg,Limpieza,31,5.50,15
+San Miguel,Leche en polvo 400 g,Lacteos,22,6.25,20
+San Miguel,Cuaderno universitario,Papeleria,74,1.80,25
+La Libertad,Arroz 5 lb,Alimentos,52,4.25,30
+La Libertad,Frijoles rojos 2 lb,Alimentos,38,2.10,25
+La Libertad,Aceite vegetal 1 L,Alimentos,26,3.75,20
+La Libertad,Detergente 1 kg,Limpieza,19,5.50,15
+La Libertad,Leche en polvo 400 g,Lacteos,9,6.25,20
+La Libertad,Cuaderno universitario,Papeleria,43,1.80,25
+Sonsonate,Arroz 5 lb,Alimentos,67,4.25,30
+Sonsonate,Frijoles rojos 2 lb,Alimentos,44,2.10,25
+Sonsonate,Aceite vegetal 1 L,Alimentos,33,3.75,20
+Sonsonate,Detergente 1 kg,Limpieza,23,5.50,15
+Sonsonate,Leche en polvo 400 g,Lacteos,15,6.25,20
+Sonsonate,Cuaderno universitario,Papeleria,55,1.80,25
